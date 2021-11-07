@@ -4,7 +4,7 @@
 
 Instructions for using the plugin are [here](https://qgis-contribution.github.io/QGIS-ResourceSharing/usage/adding-repository.html).
 
-Use `HERE Icon Library` as `Name` and `https://github.com/cedricr/here-icons` as `URL` in the `Add repository…` dialog box.
+Use `HERE Icon Library` as `Name` and `https://github.com/cedricr/here-icons-qgis.git` as `URL` in the `Add repository…` dialog box.
 
 Many thanks to HERE for making this wonderful collection available!
 
