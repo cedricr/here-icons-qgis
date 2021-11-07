@@ -1,4 +1,19 @@
-# HERE Icon Library
+# HERE Icon Library packaged for QGIS
+
+*HERE Icon Library* repackaged for use with the *QGIS Resource Sharing* Plugin.
+
+Instructions for using the plugin are [here](https://qgis-contribution.github.io/QGIS-ResourceSharing/usage/adding-repository.html).
+
+Use `HERE Icon Library` as `Name` and `https://github.com/cedricr/here-icons` as `URL` in the `Add repository…` dialog box.
+
+Many thanks to HERE for making this wonderful collection available!
+
+The original repository is https://github.com/heremaps/here-icons
+
+If you need to repackage a new version, just use the `convert.sh` script
+
+***
+**Original README starts here**
 
 HERE icons are visual cues of objects, points, actions, and tools found across our products. They are designed to complement our humanist typeface, FiraGo. 
  
