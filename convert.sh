@@ -23,4 +23,7 @@ cp -a icons/guidance-icons/speed-limit/*.svg collections/here-icons/speed-limit/
 
 # Preview image
 mkdir -p collections/here-icons/preview
-cp -a images/overview.svg collections/here-icons/preview
+cp -a images/overview.svg collections/here-icons/preview/
+
+# License
+cp -a LICENSE collections/here-icons/
