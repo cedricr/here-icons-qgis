@@ -2,11 +2,8 @@
 
 > *HERE Icon Library* repackaged for use with the [QGIS Resource Sharing](https://qgis-contribution.github.io/QGIS-ResourceSharing/) plugin.
 
-To add the library to QGIS, follow the instructions [here](https://qgis-contribution.github.io/QGIS-ResourceSharing/usage/adding-repository.html), using:
-- `HERE Icon Library` as `Name` and 
-- `https://github.com/cedricr/here-icons-qgis.git` as `URL` 
+Available in the plugin default repositories; no installation needed anymore!
 
-in the `Add repository…` dialog box.
 
 --- 
 Many thanks to HERE for making this wonderful collection available!
